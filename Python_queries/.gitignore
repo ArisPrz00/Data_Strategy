@@ -1,0 +1,7 @@
+env/
+archived/
+entregas_semanales_dp/
+__pycache__/
+*.xlsx
+*.csv
+config.ini
